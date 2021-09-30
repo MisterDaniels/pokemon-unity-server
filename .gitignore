@@ -1,0 +1,5 @@
+# DB Data
+data/db
+
+# Nakama temps or hiddens
+data/.cookie
